@@ -63,5 +63,3 @@
 ## 👻 Booo!
 ![Nosferatu](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/nosferatu.gif?raw=true)
 </details>
-cies/nosferatu.gif?raw=true)
-</details>

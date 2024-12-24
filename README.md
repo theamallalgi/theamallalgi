@@ -3,7 +3,7 @@
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
 > [!NOTE]
-> I’ve got a feeling we’re not in Kansas anymore.
+> The past is just a story we tell ourselves.
 
 <details open>
 <summary> ☎️ Wanna see my social media handles?</summary>
@@ -63,3 +63,4 @@
 ## 👻 Booo!
 ![Nosferatu](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/nosferatu.gif?raw=true)
 </details>
+etails>

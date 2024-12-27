@@ -24,6 +24,8 @@ quote = special_message if special_message else random.choice(data["random_quote
 # Update README.md
 with open(readme_file_path, 'r+') as readme:
     lines = readme.readlines()
+    # Ensure trailing newlines are not unintentionally added
     lines[5] = f"> {quote}\n"  # Replace the 5th line (index 4)
     readme.seek(0)
+    readme.truncate()
     readme.writelines(lines)

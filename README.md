@@ -24,8 +24,8 @@
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg) ![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg) ![Express.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg) ![MongoDB](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg) ![Next JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg)
 ![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg) ![Django](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg) ![NestJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg) ![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)
 
-### Shell Scripting and Automation Tools
-![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg) ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg) ![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg)
+### Shell Scripting, Building and Automation
+![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg) ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg) ![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg) ![Lua-Lang](https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua1.svg)
 
 ### Some Other Programming Languages I Love
 ![Go Lang](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg) ![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg) ![Kotlin](https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg) ![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)

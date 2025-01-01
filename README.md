@@ -1,9 +1,9 @@
-![HEADER](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/header.png?raw=true)
+![HEADER](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/newyear.png?raw=true)
 
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
 > [!NOTE]
-> Wax on, wax off.
+> It's the start of a new year my guys, turn off your devices and take a break, enjoy your time with your pals and family!
 
 <details open>
 <summary> ☎️ Wanna see my social media handles?</summary>

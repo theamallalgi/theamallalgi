@@ -2,47 +2,40 @@ name: Randomize README Content
 
 on:
   schedule:
-    - cron: "0 23 * * *" # runs at 12:00AM in EU and 04:30AM in India
-  workflow_dispatch: # Allows manual triggering
+    - cron: "0 23 * * *"  # runs at 12:00AM in EU and 04:30AM in India
+  workflow_dispatch:       # Allows manual triggering
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
+      
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: "3.x"
-
+          
       - name: Fetch latest changes from the remote repository
         run: |
           git fetch origin
           git reset --hard origin/main  # Ensures we're in sync with the remote branch
-
-      - name: Run daily quote update script
+          
+      - name: Run README updater script
         run: |
-          python scripts/update-quote.py
-
-      - name: Run seasonal header update script
-        run: |
-          python scripts/seasonal-readme-updater.py
-
+          python scripts/daily-readme-updater.py
+          
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-
           # Stage and commit changes if any
           git add README.md
-
           # Only commit if there are changes to README.md
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "docs(readme): update header and daily quote"
+            git commit -m "docs(readme): update header and daily note"
           fi
-
           # Push the changes regularly
           git push

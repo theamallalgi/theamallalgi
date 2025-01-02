@@ -2,7 +2,7 @@ name: Randomize README Content
 
 on:
   schedule:
-    - cron: "0 23 * * *"  # runs at 12:00AM in EU and 04:30AM in India
+    - cron: "0 0 * * *"  # runs at midnight (0 23 * * * ) - runs at 12:00AM in EU and 04:30AM in India
   workflow_dispatch:       # Allows manual triggering
 
 jobs:

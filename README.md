@@ -3,7 +3,7 @@
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
 > [!NOTE]
-> I fix bugs the same way I fix my life — panic, guess, and hope for the best.
+> It’s a beautiful day in this neighborhood.
 
 <details open>
 <summary> ☎️ Wanna see my social media handles?</summary>

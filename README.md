@@ -3,7 +3,7 @@
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
 > [!NOTE]
-> You either die a hero or live long enough to see yourself become the villain.
+> When you’ve been in a fight, you’ve gotta get back on the horse.
 
 <details open>
 <summary> ☎️ Wanna see my social media handles?</summary>

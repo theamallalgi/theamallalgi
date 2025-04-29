@@ -67,10 +67,10 @@ class ReadmeUpdater:
             special = data.get("special_days", {})
             random_quotes = data.get("random_quotes", [])
 
-            return special.get(today, random.choice(random_quotes) if random_quotes else "Welcome to my profile!")
+            return special.get(today, random.choice(random_quotes) if random_quotes else "Honestly, I think the computer is doing most of the work here.")
         except Exception as e:
             print(f"[ERROR] Failed to read quote: {e}")
-            return "Welcome to my profile!"  # Safe fallback
+            return "Honestly, I think the computer is doing most of the work here."  # Safe fallback
 
     def update_readme(self):
         """Update README.md with seasonal image and daily quote."""

@@ -3,6 +3,7 @@
 import os
 import json
 import random
+import sys
 from datetime import datetime
 
 
@@ -10,16 +11,14 @@ class ReadmeUpdater:
     def __init__(self):
         # Seasonal images mapping (MMDD format)
         self.SEASONAL_IMAGES = {
-            # Holiday images
             "1031": "halloween.png",
             "0908": "birthday.png",
-            "2204": "earthday.png",
+            "0422": "earthday.png",
             "0701": "programmersday.png",
             "1225": "christmas.png",
-            "3112": "newyear.png",
+            "1231": "newyear.png",
             "0101": "newyear.png",
-            # Holiday ranges
-            # "3112-0101": "newyear.png",
+            "1231-0101": "newyear.png",
         }
 
         # File paths (relative to repository root)
@@ -34,7 +33,7 @@ class ReadmeUpdater:
         """
         today = datetime.now().strftime("%m%d")
 
-        # Check exact date matches
+        # Check exact match first
         if today in self.SEASONAL_IMAGES:
             return self.SEASONAL_IMAGES[today]
 
@@ -42,60 +41,67 @@ class ReadmeUpdater:
         for date_range, image in self.SEASONAL_IMAGES.items():
             if "-" in date_range:
                 start_date, end_date = date_range.split("-")
-                if start_date <= today <= end_date:
+                if self.is_date_in_range(today, start_date, end_date):
                     return image
 
         return default_image
 
+    def is_date_in_range(self, today, start, end):
+        """
+        Check if today's date (MMDD) is within a date range.
+        Handles year-end wrapping.
+        """
+        if start <= end:
+            return start <= today <= end
+        else:
+            # e.g., 1231–0101
+            return today >= start or today <= end
+
     def get_daily_quote(self):
-        """Get quote of the day or special message from quotes.json."""
+        """Get quote of the day or fallback message from quotes.json."""
         try:
             with open(self.QUOTES_PATH, "r", encoding="utf-8") as file:
                 data = json.load(file)
 
             today = datetime.now().strftime("%m-%d")
-            # Return special day quote if exists, otherwise random quote
-            return data["special_days"].get(today, random.choice(data["random_quotes"]))
+            special = data.get("special_days", {})
+            random_quotes = data.get("random_quotes", [])
+
+            return special.get(today, random.choice(random_quotes) if random_quotes else "Welcome to my profile!")
         except Exception as e:
-            print(f"Error getting quote: {e}")
-            return "Welcome to my profile!"  # Fallback quote
+            print(f"[ERROR] Failed to read quote: {e}")
+            return "Welcome to my profile!"  # Safe fallback
 
     def update_readme(self):
-        """Update README with new image and quote."""
+        """Update README.md with seasonal image and daily quote."""
         try:
-            # Read current README content
             with open(self.README_PATH, "r", encoding="utf-8") as file:
                 lines = file.readlines()
 
-            # Update header image (line 1)
             seasonal_image = self.get_seasonal_image()
             lines[0] = (
                 f"![HEADER](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/{seasonal_image}?raw=true)\n"
             )
 
-            # Update quote (line 5)
             daily_quote = self.get_daily_quote()
             lines[5] = f"> {daily_quote}\n"
 
-            # Write updated content
             with open(self.README_PATH, "w", encoding="utf-8") as file:
                 file.writelines(lines)
 
-            print(f"Updated README with image: {seasonal_image}")
-            print(f"Updated quote to: {daily_quote}")
+            print(f"[INFO] Updated README with image: {seasonal_image}")
+            print(f"[INFO] Updated quote: {daily_quote}")
             return True
 
         except Exception as e:
-            print(f"Error updating README: {e}")
+            print(f"[ERROR] Failed to update README: {e}")
             return False
 
 
 def main():
     updater = ReadmeUpdater()
     success = updater.update_readme()
-
-    # Exit with appropriate status code for GitHub Actions
-    exit(0 if success else 1)
+    sys.exit(0 if success else 1)
 
 
 if __name__ == "__main__":

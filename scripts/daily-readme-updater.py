@@ -17,7 +17,7 @@ class ReadmeUpdater:
             "0701": "programmersday.png",
             "1225": "christmas.png",
             "1231": "newyear.png",
-            "0101": "newyear.png",
+            "0601": "newyear.png",
             "1231-0101": "newyear.png",
         }
 

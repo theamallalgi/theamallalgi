@@ -14,7 +14,7 @@ class ReadmeUpdater:
             "1031": "halloween.png",
             "0908": "birthday.png",
             "0422": "earthday.png",
-            "0701": "programmersday.png",
+            "0912": "programmersday.png",
             "1225": "christmas.png",
             "1231": "newyear.png",
             "0101": "newyear.png",

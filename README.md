@@ -3,7 +3,7 @@
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
 > [!NOTE]
-> It's not the years, honey, it’s the mileage.
+> Life is like a box of chocolates. You never know what you're gonna get.
 
 <details open>
 <summary> ☎️ Wanna see my social media handles?</summary>

@@ -3,7 +3,7 @@
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
 > [!NOTE]
-> Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.
+> This is not 'Nam. This is bowling. There are rules.
 
 <details open>
 <summary> ☎️ Wanna see my social media handles?</summary>

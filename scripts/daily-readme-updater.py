@@ -13,6 +13,7 @@ class ReadmeUpdater:
         self.SEASONAL_IMAGES = {
             "1031": "halloween.png",
             "0908": "birthday.png",
+            "0905": "onam.png",
             "0422": "earthday.png",
             "0912": "programmersday.png",
             "1225": "christmas.png",

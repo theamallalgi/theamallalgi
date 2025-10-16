@@ -3,7 +3,7 @@
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
 > [!NOTE]
-> You miss 100% of the shots you don’t take.
+> To be a good knight, you must have the heart of a lion and the courage to do what’s right.
 
 <details open>
 <summary> ☎️ Wanna see my social media handles?</summary>

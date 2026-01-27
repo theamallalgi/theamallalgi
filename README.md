@@ -3,7 +3,7 @@
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
 > [!NOTE]
-> I don’t understand half the things on this screen, but hey, it runs.
+> I’ve got a feeling we’re not in Kansas anymore.
 
 <details open>
 <summary> ☎️ Wanna see my social media handles?</summary>

@@ -9,10 +9,7 @@
 <summary> ☎️ Wanna see my social media handles?</summary>
 
 ## 🐦 Feel free to follow me and Stuff!
-[![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://instagram.com/theamallalgi) [![X/Twitter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter1.svg)](https://x.com/amallalgi) [![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit1.svg)](https://reddit.com/user/theamallalgi) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](t.me/theamallalgi/)
-[![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg)](https://github.com/theamallalgi/) [![Sponsor](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor1.svg)](https://github.com/sponsors/theamallalgi/)
-[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:theamallalgi@gmail.com) [![Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://amallalgi.is-a.dev/)
-[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://linkedin.com/in/amallalgi)
+[![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://instagram.com/theamallalgi) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://linkedin.com/in/amallalgi) [![X/Twitter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter1.svg)](https://x.com/amallalgi) [![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit1.svg)](https://reddit.com/user/theamallalgi) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/theamallalgi/) [![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg)](https://github.com/theamallalgi/) [![Sponsor](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor1.svg)](https://github.com/sponsors/theamallalgi/) [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:theamallalgi@gmail.com) [![Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://amallalgi.is-a.dev/)
 </details>
 
 <details>
@@ -39,13 +36,6 @@
 ### Main Creative Tools I Use
 ![Adobe Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg) ![Adobe Illustrator](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator1.svg) ![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg) ![InDesign](https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign1.svg) </br>
 ![Audacity](https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity1.svg) ![Blender](https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender1.svg)
-</details>
-
-<details>
-<summary> 🦑 I love listening to Ancient songs!</summary>
-
-## 🎺 This is something I listen to:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=t33tjvnatdw1hf5ner4vpt2kn&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 </details>
 
 <details>

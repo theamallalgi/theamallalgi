@@ -1,9 +1,9 @@
-![HEADER](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/birthday.png?raw=true)
+![HEADER](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/header.png?raw=true)
 
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
 > [!NOTE]
-> Happy Birthday! To Me? [ sheesh! it feels cringy, just typing this message! ]
+> If you wish to make an apple pie from scratch, you must first invent the universe.
 
 <details open>
 <summary> ☎️ Wanna see my social media handles?</summary>
